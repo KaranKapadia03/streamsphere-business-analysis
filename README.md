@@ -103,9 +103,8 @@ The project contains a 4-page interactive Power BI dashboard.
 
 **Includes:** Customers by Country, Acquisition by Channel, Country × Acquisition Channel, Gender Distribution, Monthly Customer Acquisition Trend and Age Distribution.
 
-## 3️⃣ Subscription & Churn
-
-![Subscription & Churn](./dashboard/Subscription%20%26%20Churn.png)
+## 3️⃣ Subscription & Churn 
+![Subscription & Churn](./dashboard/Subscription%20%26%20Churn%20Analysis.png)
 
 **Includes:** Subscription Status, Subscriptions by Plan, Churn Rate by Plan, Cancellation Reasons, Cancellation Reasons by Plan and Subscription Status by Plan.
 
